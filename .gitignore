@@ -1,0 +1,21 @@
+# Terraform
+.terraform/*
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+# Mac temp file
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+
+#ide
+.vscode
+.idea
+
