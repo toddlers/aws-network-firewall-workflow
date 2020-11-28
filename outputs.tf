@@ -1,3 +1,3 @@
 output "instace-ip" {
-  value = aws_instance.my-instance.public_ip
+  value = format("http://%s/phpinfo.php", aws_instance.my-instance.public_ip)
 }
