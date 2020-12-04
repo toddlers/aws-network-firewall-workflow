@@ -17,7 +17,7 @@ This sets up a playground for working with  `aws-network-firewall` for trying ou
 
 
 
-[1]. https://github.com/hashicorp/terraform-provider-aws/issues/16470
+~[1]. https://github.com/hashicorp/terraform-provider-aws/issues/16470~
 
 [2]. https://docs.aws.amazon.com/network-firewall/latest/APIReference/API_Header.html#networkfirewall-Type-Header-Destination
 
